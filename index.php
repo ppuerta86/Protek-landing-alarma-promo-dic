@@ -122,8 +122,8 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 					<div class="col-equal">
 						<div class="col-sm-6 servicio">
 
-							<img class="img-responsive desktop-header" src="images/icon/alarma_para_casa.png" alt="">
-							<img class="img-responsive mobile-header" src="images/icon/alarmapreciomobile.png" alt="">
+							<img class="img-responsive desktop-header" src="images/promo-navidad.png" alt="">
+							<img class="img-responsive mobile-header" src="images/promo-navidad.png" alt="">
 						</div>
 						<div class="col-sm-6 formucol">
 							<div class="box amar">
